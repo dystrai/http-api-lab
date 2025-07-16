@@ -1,86 +1,86 @@
-Emoji,English,Português
-🐜,ant,formiga
-🦡,badger,texugo
-🦇,bat,morcego
-🦫,beaver,castor
-🪲,beetle,besouro
-🐦,bird,passaro
-🦬,bison,bisao
-🐡,blowfish,baiacu
-🐃,buffalo,bufalo
-🐛,bug,inseto
-🦋,butterfly,borboleta
-🐫,camel,camelo
-🐈,cat,gato
-🐤,chick,pintinho
-🐿️,chipmunk,esquilo
-🪳,cockroach,barata
-🪸,coral,coral
-🐄,cow,vaca
-🦀,crab,caranguejo
-🦗,cricket,grilo
-🐊,crocodile,crocodilo
-🦌,deer,veado
-🦤,dodo,dodo
-🐕,dog,cachorro
-🐬,dolphin,golfinho
-🕊️,dove,pombo
-🐪,dromedary,dromedario
-🦆,duck,pato
-🦅,eagle,aguia
-🐘,elephant,elefante
-🐟,fish,peixe
-🦩,flamingo,flamingo
-🪰,fly,mosca
-🦒,giraffe,girafa
-🐐,goat,cabra
-🪿,goose,ganso
-🦍,gorilla,gorila
-🦔,hedgehog,ourico
-🦛,hippopotamus,hipopotamo
-🐝,honeybee,abelha
-🐎,horse,cavalo
-🪼,jellyfish,medusa
-🦘,kangaroo,canguru
-🐞,ladybeetle,joaninha
-🐆,leopard,leopardo
-🦎,lizard,lagarto
-🦙,llama,llama
-🦞,lobster,lagosta
-🦣,mammoth,mamute
-🐒,monkey,macaco
-🦟,mosquito,mosquito
-🐁,mouse,camundongo
-🐙,octopus,polvo
-🦧,orangutan,orangotango
-🦦,otter,lontra
-🦉,owl,coruja
-🐂,ox,boi
-🦜,parrot,papagaio
-🦚,peacock,pavao
-🐧,penguin,pinguim
-🐖,pig,porco
-🐩,poodle,poodle
-🐇,rabbit,coelho
-🐏,ram,carneiro
-🐀,rat,rato
-🦏,rhinoceros,rinoceronte
-🐓,rooster,galo
-🦕,sauropod,sauropode
-🦂,scorpion,escorpiao
-🦭,seal,foca
-🐑,sheep,ovelha
-🦐,shrimp,camarao
-🦨,skunk,gamba
-🦥,sloth,preguica
-🐌,snail,caracol
-🐍,snake,serpente
-🕷️,spider,aranha
-🦑,squid,lula
-🦢,swan,cisne
-🦖,t-rex,t-rex
-🐅,tiger,tigre
-🦃,turkey,peru
-🐢,turtle,tartaruga
-🪱,worm,verme
-🐋,whale,baleia
+emoji,english,portugues,nome_cientifico
+🐜,ant,formiga,Formicidae
+🦡,badger,texugo,Meles meles
+🦇,bat,morcego,Chiroptera
+🦫,beaver,castor,Castor canadensis
+🪲,beetle,besouro,Coleoptera
+🐦,bird,passaro,Avis
+🦬,bison,bisao,Bison bison
+🐡,blowfish,baiacu,Tetraodontidae
+🐃,buffalo,bufalo,Bubalus bubalis
+🐛,bug,inseto,Hemiptera
+🦋,butterfly,borboleta,Lepidoptera
+🐫,camel,camelo,Camelus dromedarius
+🐈,cat,gato,Felis catus
+🐤,chick,pintinho,Gallus gallus domesticus
+🐿️,chipmunk,esquilo,Tamias striatus
+🪳,cockroach,barata,Blattodea
+🪸,coral,coral,Anthozoa
+🐄,cow,vaca,Bos taurus
+🦀,crab,caranguejo,Brachyura
+🦗,cricket,grilo,Gryllidae
+🐊,crocodile,crocodilo,Crocodylus niloticus
+🦌,deer,veado,Cervidae
+🦤,dodo,dodo,Raphus cucullatus
+🐕,dog,cachorro,Canis lupus familiaris
+🐬,dolphin,golfinho,Delphinus delphis
+🕊️,dove,pombo,Columbidae
+🐪,dromedary,dromedario,Camelus dromedarius
+🦆,duck,pato,Anas platyrhynchos
+🦅,eagle,aguia,Aquila chrysaetos
+🐘,elephant,elefante,Elephas maximus
+🐟,fish,peixe,Pisces
+🦩,flamingo,flamingo,Phoenicopterus roseus
+🪰,fly,mosca,Diptera
+🦒,giraffe,girafa,Giraffa camelopardalis
+🐐,goat,cabra,Capra aegagrus hircus
+🪿,goose,ganso,Anser anser
+🦍,gorilla,gorila,Gorilla gorilla
+🦔,hedgehog,ourico,Erinaceus europaeus
+🦛,hippopotamus,hipopotamo,Hippopotamus amphibius
+🐝,honeybee,abelha,Apis mellifera
+🐎,horse,cavalo,Equus caballus
+🪼,jellyfish,medusa,Scyphozoa
+🦘,kangaroo,canguru,Macropus rufus
+🐞,ladybeetle,joaninha,Coccinellidae
+🐆,leopard,leopardo,Panthera pardus
+🦎,lizard,lagarto,Lacertilia
+🦙,llama,llama,Lama glama
+🦞,lobster,lagosta,Homarus americanus
+🦣,mammoth,mamute,Mammuthus primigenius
+🐒,monkey,macaco,Primates
+🦟,mosquito,mosquito,Culicidae
+🐁,mouse,camundongo,Mus musculus
+🐙,octopus,polvo,Octopus vulgaris
+🦧,orangutan,orangotango,Pongo pygmaeus
+🦦,otter,lontra,Lutra lutra
+🦉,owl,coruja,Strigiformes
+🐂,ox,boi,Bos taurus
+🦜,parrot,papagaio,Psittaciformes
+🦚,peacock,pavao,Pavo cristatus
+🐧,penguin,pinguim,Spheniscidae
+🐖,pig,porco,Sus scrofa domesticus
+🐩,poodle,poodle,Canis lupus familiaris
+🐇,rabbit,coelho,Oryctolagus cuniculus
+🐏,ram,carneiro,Ovis aries
+🐀,rat,rato,Rattus rattus
+🦏,rhinoceros,rinoceronte,Rhinocerotidae
+🐓,rooster,galo,Gallus gallus domesticus
+🦕,sauropod,sauropode,Sauropoda
+🦂,scorpion,escorpiao,Scorpiones
+🦭,seal,foca,Pinnipedia
+🐑,sheep,ovelha,Ovis aries
+🦐,shrimp,camarao,Caridea
+🦨,skunk,gamba,Mephitis mephitis
+🦥,sloth,preguica,Bradypus tridactylus
+🐌,snail,caracol,Gastropoda
+🐍,snake,serpente,Serpens
+🕷️,spider,aranha,Araneae
+🦑,squid,lula,Teuthida
+🦢,swan,cisne,Cygnus olor
+🦖,t-rex,t-rex,Tyrannosaurus rex
+🐅,tiger,tigre,Panthera tigris
+🦃,turkey,peru,Meleagris gallopavo
+🐢,turtle,tartaruga,Testudines
+🪱,worm,verme,Annelida
+🐋,whale,baleia,Cetacea
