@@ -1,3 +1,7 @@
+emojis
 fastapi
+ipython
 pydantic
+requests
+unidecode
 uvicorn
